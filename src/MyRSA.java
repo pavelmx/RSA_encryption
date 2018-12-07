@@ -1,8 +1,6 @@
 
 public class MyRSA {
 
-
-
 		private long p;
 		private long q;
 		private long d;
