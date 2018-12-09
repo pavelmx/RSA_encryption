@@ -2,8 +2,11 @@
 import java.math.BigInteger;
 import java.util.LinkedList;
 
-public class Main { // главный класс, который выполняет всю последовательность действий
-					// по шифрованию/дешифрованию
+/**главный класс, который выполняет всю последовательность действий
+ по шифрованию/дешифрованию
+ *
+ */
+public class Main { 
 
 	private final static int p = 3571; // задаем простое число p
 	private final static int q = 2179; // задаем простое число q
